@@ -17,7 +17,7 @@ h2 {
 	text-align: center;
 }
 h3 {
-	font-family: Cursive;
+	font-family: Courier;
 	font-size: 100%;
 	text-align: center;
 }
@@ -30,7 +30,7 @@ p{
 details{
 	font-style: italic;
 	font-size: 80%;
-	font-family: Cursive;
+	font-family: Courier;
 	text-align: center;
 }
 figure{
@@ -38,7 +38,7 @@ figure{
 }
 figcaption{
 	font-style: oblique;
-	font-family: Cursive;
+	font-family: Courier;
 	font-size: 70%;
 }
 footer{
