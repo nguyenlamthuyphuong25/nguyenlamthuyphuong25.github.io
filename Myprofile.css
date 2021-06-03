@@ -17,12 +17,12 @@ h2 {
 	text-align: center;
 }
 h3 {
-	font-family: Courier;
+	font-family: "Courier";
 	font-size: 100%;
 	text-align: center;
 }
 p{
-	font-family: Courier;
+	font-family: "Courier";
 	text-align: center;
 	background-color: white;
 	font-size: 150%;
@@ -30,7 +30,7 @@ p{
 details{
 	font-style: italic;
 	font-size: 80%;
-	font-family: Courier;
+	font-family: "Courier";
 	text-align: center;
 }
 figure{
@@ -38,7 +38,7 @@ figure{
 }
 figcaption{
 	font-style: oblique;
-	font-family: Courier;
+	font-family: "Courier";
 	font-size: 70%;
 }
 footer{
