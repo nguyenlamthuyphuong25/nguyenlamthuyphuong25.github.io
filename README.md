@@ -48,16 +48,16 @@
 		</figure>
 			<p>And in life, I feel very very lucky because I have so many good friends!</p>
 		<figure>
-			<img src="pic17.jpg" width=300px>
-			<img src="pic16.jpg" width=300px>
-			<img src="pic6.jpg" width=300px>
-			<img src="pic7.jpg" width=300px>
-			<img src="pic20.jpg" width=300px>
-			<img src="pic21.jpg" width=300px>
-			<img src="pic22.jpg" width=300px>
-			<img src="pic4.jpg" width=300px>
-			<img src="pic19.jpg" width=300px>
-			<img src="pic18.jpg" width=300px>
+			<img src="pic17.jpg" width=200px>
+			<img src="pic16.jpg" width=200px>
+			<img src="pic6.jpg" width=200px>
+			<img src="pic7.jpg" width=200px>
+			<img src="pic20.jpg" width=200px>
+			<img src="pic21.jpg" width=200px>
+			<img src="pic22.jpg" width=200px>
+			<img src="pic4.jpg" width=200px>
+			<img src="pic19.jpg" width=200px>
+			<img src="pic18.jpg" width=200px>
 			<figcaption>I don't know why we got to know each other, but I know that we had some good times that I will remember forever in my life. Thanks for all!</figcaption>
 		</figure>
 	</section>
