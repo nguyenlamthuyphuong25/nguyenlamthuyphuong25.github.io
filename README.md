@@ -62,10 +62,10 @@
 		</figure>
 	</section>
 	<footer>
-		<h1>More about me, contact me with...
+		<h4>More about me, contact me with...
 		<a href="https://www.facebook.com/NLTPTTN"><i class="fab fa-facebook fa-x"></i></a>
 		<a href="https://www.instagram.com/ryo2001_nguyen/"><i class="fab fa-instagram fa-x"></i></a>
-		</h1>
+		</h4>
 	</footer>
 </body>
 </html>
