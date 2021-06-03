@@ -5,7 +5,6 @@ header{
 	font-size: 150%;
 	color: white;
 	background-color: #8DA290;
-	display: flex;
 }
 body{
 	background-color: #DEE2D9;
@@ -44,7 +43,6 @@ figcaption{
 }
 footer{
 	background-color: #8DA290;
-	display: block;
 }
 h4{
 	font-style: oblique;
