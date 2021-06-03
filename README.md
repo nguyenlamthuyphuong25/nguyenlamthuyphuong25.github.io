@@ -51,7 +51,7 @@
 			<img src="pic17.jpg" width=300px>
 			<img src="pic16.jpg" width=300px>
 			<img src="pic6.jpg" width=300px>
-			<img src="pic7.jpg"width=300px>
+			<img src="pic7.jpg" width=300px>
 			<img src="pic20.jpg" width=300px>
 			<img src="pic21.jpg" width=300px>
 			<img src="pic22.jpg" width=300px>
